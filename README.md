@@ -8,7 +8,9 @@ I created this repository for learning, teaching, and revision purposes. Every f
 👤 Author
 
  Mian Haseeb Nasir
+ 
 Founder – Nova-Stack Technologies
+
 Software-Engineer | Full-Stack Developer | AI Enthusiast
 
 📂 Folder Structure & Topics Covered
